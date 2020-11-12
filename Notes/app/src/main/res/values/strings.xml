@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Notes</string>
+    <string name="заметки">Заметки</string>
+    <string name="поиск_заметок">Поиск</string>
+    <string name="название_заметки">Название</string>
+    <string name="примечания">Примечания</string>
+    <string name="ведите_заметку_здесь">Введите заметку здесь</string>
+</resources>
